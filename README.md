@@ -1,4 +1,4 @@
-# ForceControldemo
+# ForceControlDemo
 ForceControldemo 
 The composition of ForceControl configuration software includes: development system Draw, interface running system View, and database system DB. Draw and View mainly complete the configuration and operation of the human-machine interface, and DB mainly completes the real-time data collection of the process (through I/O driver program), real-time data processing (including alarm processing, statistical processing), historical data processing, etc.
 
