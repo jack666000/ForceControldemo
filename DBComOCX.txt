@@ -1,0 +1,11 @@
+DBComOCX mainly includes the following parts:
+
+The installation CD of the force control software contains all the contents of DBCOMOCX. When installing the force control software, DBCOMOCX content will be automatically installed in the subdirectory SDK\DBCOMOCX under the force control installation directory. In addition, users can also download the separate installation package of DBCOMOCX from the Sunwayland website (http:\www.sunwayland.com.cn).
+
+DBCOMOCX mainly includes the following parts:
+
+Ø Examples, program examples. DBComOCX provides three examples: VB, C++, C#.
+
+Ø Manual, documentation.
+
+I hope this helps! Let me know if you have any other questions.
