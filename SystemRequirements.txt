@@ -1,0 +1,21 @@
+system requirements 
+
+Before you start development, first check if your development system meets the following conditions:
+
+Ø CPU P4 and above series
+
+Ø Memory 4G or more
+
+Ø Disk space 20G or more
+
+Ø VGA or SVGA displays of various types
+
+Ø Parallel printer port
+
+Ø Standard mouse and keyboard
+
+Ø Windows XP/Win7 and higher operating system.
+
+Ø Microsoft Visual Studio 2010"
+
+I hope this helps! Let me know if you have any other questions.
